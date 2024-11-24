@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "increase swords B",
+    "description": "This is an add-on that adds swords to Minecraft.",
+    "version": [1, 0, 0],
+    "uuid": "79bce1dd-2c38-4177-8e3c-e1a4ac6e16e8",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "increase swords B behavior module",
+      "version": [1, 0, 0],
+      "uuid": "d11604f3-42f8-443d-8fd1-3048eed5f94c8"
+      ]
+}
+    }
