@@ -2,15 +2,15 @@
   "format_version": 2,
   "header": {
     "description": "マインクラフトの剣を増やします。",
-    "name": "pack.name",
-    "uuid": "UUID その1",
+    "name": "剣を増やすアドオン",
+    "uuid": "4b5f39f7-3e60-40b5-b3a7-6345b1562b77",
     "min_engine_version": [ 1, 20, 60 ],
     "version": [ 1, 0, 0 ]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "UUID その2",
+      "uuid": "69cd59fe-f523-4a06-b8bd-6bbda9a44077",
       "version": [ 1, 0, 0 ]
     }
   ]
