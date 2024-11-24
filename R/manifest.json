@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "pack.description",
+    "description": "マインクラフトの剣を増やします。",
     "name": "pack.name",
     "uuid": "UUID その1",
     "min_engine_version": [ 1, 20, 60 ],
