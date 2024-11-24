@@ -1,1 +1,4 @@
 execute as @s at @s run particle minecraft:trial_spawner_detection ~ ~ ~
+effect @s slowness 20 255 true
+title @s title しばらくお待ちください...
+title @a times 200 3600 200
